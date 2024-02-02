@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2afaa04e446d49fda1ad75238cd290e9/artifacts
+end_time: 1706862069331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afaa04e446d49fda1ad75238cd290e9
+run_name: victorious-steed-917
+run_uuid: 2afaa04e446d49fda1ad75238cd290e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706862066600
+status: 4
+tags: []
+user_id: dell
